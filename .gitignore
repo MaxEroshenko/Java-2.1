@@ -2,5 +2,5 @@
 # Ignore any file named .idea.
 .idea
 # Lines starting with '#' are considered comments.
-# Ignore any file named out/
-out/
+# Ignore any file named out
+out
